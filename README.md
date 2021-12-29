@@ -10,3 +10,10 @@ Namme: Mohammed Role: Mobile/Tablet Front-End Developer: has experience developi
 
 Name: Salma Role: Front-End Dev. Ops: has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and measurement
 
+Team Back-End
+Name: Mohsen Role: Database developer Expertise: experience with Oracle Database, Microsoft SQL Server
+
+Name: Sami Role: Backend developer Expertise: experience with Java, PHP, and Python
+
+Name: Ramy Role: Network Administrator Expertise: keeping a company network up to date
+
