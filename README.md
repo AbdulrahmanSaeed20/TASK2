@@ -15,5 +15,14 @@ Name: Mohsen Role: Database developer Expertise: experience with Oracle Database
 
 Name: Sami Role: Backend developer Expertise: experience with Java, PHP, and Python
 
-Name: Ramy Role: Network Administrator Expertise: keeping a company network up to date
+Name: Ramy Role: Network Administrator Expertise: Making sure the company's network is running fine without problems
+
+Name: Abdulrahman Role: Backend Documentor: experience with documenting code
+
+Team Testing
+Name: Sherif Role: Testing Engineer: responsible for designing and implementing the tests that ensure the quality and the functionality of a product 
+
+Name: Noha Role: Integration Testing: experience with DBunit and REST-Assured.
+
+Name: Lamis Role: Test Manager: responsible for planning, estimating, monitoring and control of test activities.
 
