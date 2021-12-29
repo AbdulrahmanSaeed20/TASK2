@@ -26,3 +26,8 @@ Name: Noha Role: Integration Testing: experience with DBunit and REST-Assured.
 
 Name: Lamis Role: Test Manager: responsible for planning, estimating, monitoring and control of test activities.
 
+Product Owner and Scrum Master
+Name: Ahmad Role: Product Owner (Full Time)
+
+Name: Mohanad Role: Scrum Master (Full Time)
+
