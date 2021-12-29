@@ -35,6 +35,7 @@ Possible Stakeholders
 
 Universities (Teachers and stundents)
 Schools (Teachers and students)
+Admins
 
 Near Vision:
   First Sprint: After this sprint ends we want to make sure that we have successfully designed a fully working interface for our Website/app and begin the development of the some of the simple funcionalites such as a secure login authentication
