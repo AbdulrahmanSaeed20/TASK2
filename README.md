@@ -31,3 +31,10 @@ Name: Ahmad Role: Product Owner (Full Time)
 
 Name: Mohanad Role: Scrum Master (Full Time)
 
+Possible Stakeholders
+
+Universities (Teachers and stundents)
+Schools (Teachers and students)
+
+
+
