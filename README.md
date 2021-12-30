@@ -53,6 +53,6 @@ The backlog items are ordered after a meeting is done between all the members wo
 Sprints Important Details:
 We will use modified Fibonnachi sequence to calculate story points,
 Each sprint takes about 3 weeks to be finished,
-Our team can finish about 52 story points in one sprint,
+Our team can finish about 48-54 story points in one sprint,
 Our team will work 5 times a week and an 8 hour shift in the 5 work days 
 
