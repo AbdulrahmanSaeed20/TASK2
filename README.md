@@ -1,5 +1,8 @@
 # TASK2
-Online College System
+Project Description: We aim to build an interactive website/app for educational constitutes. There are two types of users Teachers/students:
+	1. Teachers will be able to login, post assignments and quizzes, grade quizzes, register students to my course, take attendance, setup meetings. 
+	2. Students will be able to login, access my course material, download assignments/quizzes, check my grades, send feedback, attend meetings.
+
 Team Front-End 
 
 Name: Rami Role: Front-End Developer: skilled to some degree at HTML, CSS, DOM
