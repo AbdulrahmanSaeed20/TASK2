@@ -50,4 +50,9 @@ Ordered Backlog Rationale:
 The backlog items are ordered after a meeting is done between all the members working on the project , so they can agree on importance of each backlog items and they also remove the unnessassery suggested ones. The selected backlog items should be valuable for our project and it should have a business value
 
 
+Sprints Important Details:
+We will use modified Fibonnachi sequence to calculate story points
+Each sprint takes about 3 weeks to be finished
+Our team can finish about 52 story points in one sprint
+Our team will work 5 times a week and an 8 hour shift in the 5 work days 
 
