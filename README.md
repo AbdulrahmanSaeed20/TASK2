@@ -46,5 +46,8 @@ Near Vision:
 Far Vision:
 In our project we are aiming to create a reliable and fast applicatin/website that will give the teachers/admins/students the optimal educational experience. 
 
+Ordered Backlog Rationale:
+The backlog items are ordered after a meeting is done between all the members working on the project , so they can agree on importance of each backlog items and they also remove the unnessassery suggested ones. The selected backlog items should be valuable for our project and it should have a business value
+
 
 
